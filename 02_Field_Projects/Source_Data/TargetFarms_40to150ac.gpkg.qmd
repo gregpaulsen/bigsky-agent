@@ -1,0 +1,91 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.40.5-Bratislava">
+  <identifier>Dev.DBO.Assessor_Parcel_Land_Poly</identifier>
+  <parentidentifier></parentidentifier>
+  <language>ENG</language>
+  <type>dataset</type>
+  <title>Kern County GIS Tax Parcels (Land) 2025 Final</title>
+  <abstract>This feature class contains "land" (surface rights) parcel boundaries delineated for property tax assessment purposes.
+This feature class includes all private, tax-exempt, and state-assessed land parcels listed on the secured tax roll, but does not include mineral rights (subsurface) parcels, mobilehomes, or unsecured entities.
+Parcels are modeled as planimetric polygons in a seamless fabric comprising the spatial extent of the County of Kern, in the State of California.
+Tax Roll Data is available in separate database tables, which can be joined to the feature class using the APN9 field as the SQL join key.
+
+This data is intended to provide a reasonable representation of parcels, as defined for property tax assessment purposes, that can be used easily in a computerized geographic information system. This data is not intended to replace the hardcopy assessment maps or any other official or unofficial county maps, and it is not to be construed as portraying legal ownership or divisions of land for purposes of zoning or subdivision law.</abstract>
+  <keywords vocabulary="gmd:topicCategory">
+    <keyword>parcel</keyword>
+    <keyword>apn</keyword>
+    <keyword>ownership</keyword>
+    <keyword>lot</keyword>
+    <keyword>cadastre</keyword>
+    <keyword>cadaster</keyword>
+    <keyword>cadastral</keyword>
+    <keyword>tax</keyword>
+    <keyword>property</keyword>
+    <keyword>assessment</keyword>
+    <keyword>assessor</keyword>
+    <keyword>land</keyword>
+    <keyword>surface</keyword>
+  </keywords>
+  <contact>
+    <contactAddress>
+      <type>both</type>
+      <address>Mapping Section</address>
+      <city>Bakersfield</city>
+      <administrativearea>California</administrativearea>
+      <postalcode>93301</postalcode>
+      <country>US</country>
+    </contactAddress>
+    <name>Mapping Section</name>
+    <organization>Kern County Assessor's Office</organization>
+    <position>GIS Technician</position>
+    <voice>(661) 868-3264</voice>
+    <fax></fax>
+    <email>assessor@kerncounty.com</email>
+    <role></role>
+  </contact>
+  <links/>
+  <history>This dataset was originally compiled by the Kern County Assessor, in May 2001, from two different sources: 1. The Kern Council of Governments provided the VWGIS data for the entire county (as a one-time dataset copy). 2. The City of Bakersfield provided the their own COBGIS data for the metropolitan Bakersfield area (and continues to share data on an ongoing basis).</history>
+  <history>Data source: The Valley Wide GIS (VWGIS) program and data sets have been established for the purpose of coordinating regional transportation, land use, and air quality planning efforts. The VWGIS serves to provide regional data sets that can be accessed from one central location and which exists in a single, standardized format. Major data layers include roads, parcels, zoning, general plan, traffic analysis zones, demographics, and air quality grid. The project region is encompassed by the Counties of San Joaquin, Stanislaus, Merced, Madera, Fresno, Kings, Tulare, and Kern. The participants of the VWGIS program include the California Department of Transportation (Caltrans), the San Joaquin Valley Unified Air Pollution Control District(SJVUAPCD), and the following transportation planning agencies: San Joaquin Council of Governments, Stanislaus Area Association of Governments, Merced County Association of Governments, Madera County Transportation Commission, Council of Fresno County Governments, Kings County Association of Governments, Tulare County Association of Governments, and the Kern Council of Governments. The program was implemented for 3 years, beginning in 1996 and ending 1998, during which time the Merced County Association of Governments had a special project staff who digitized GIS data from scanned photocopies of all assessment maps on file at the Kern County Assessor's Office.</history>
+  <history>Data source: The City of Bakersfield has been developing GIS data and applications since the late 1980s. Their dataset encompasses the entire metropolitan Bakersfield area. In May 2001, the COBGIS data was filtered to obtain all parcels where full assessment map books were represented. The Valley-Wide GIS data was then clipped to remove all parcels in those map books, and the two files were then merged. The resulting file comprised the Kern County Assessor's first parcel polygon dataset. Errors and omissions were corrected over the next 3 years, and the first "complete" county dataset was ready in 2004.</history>
+  <dates>
+    <date type="Published" value="2025-06-28T00:00:00"/>
+  </dates>
+  <fees></fees>
+  <constraints type="Limitations of use">SUMMARY:
+This disclaimer statement requires the data recipient to receive the data "as is" with no warranty, and to hold all data providers not liable for any losses or damages caused by, or resulting from, use of the data. The statement also requires the data recipient to not distribute any portion of the data without a copy of this disclaimer statement. Whereas the Kern Geographic Information Network (Kern GEONET) and its members and other agencies have developed digital geographic data herein referred to as "the Data." Whereas the entity or entities acquiring a copy of the Data are herein referred to as "the Recipient." Whereas the Kern Geographic Information Network and its members, the County of Kern, and other agencies that have developed and contributed the Data which is being transmitted to the Recipient by these agencies are herein referred to as "the Data Providers."
+I. DISCLAIMER OF LIABILITY AND WARRANTIES:
+A. The Recipient understands and agrees that it is possible that errors and omissions will occur in data input or programming done by the Data Providers to provide the data in the form desired. The Recipient further understands and agrees that it is probable that errors and omissions will occur in record keeping processes, especially when large numbers of records are developed and maintained, and that data may not meet the Recipient's standards as to accuracy or completeness. Notwithstanding, the Recipient agrees to take the data "as is", fully expecting that there may be errors and omissions associated with the data.
+B. The Recipient further understands and agrees that the Data Providers make absolutely no warranty whatsoever, whether expressed or implied, as to the accuracy, thoroughness, value, quality, validity, merchantability, suitability, condition or fitness for a particular purpose of the data or any programming used to obtain the data, nor as to whether the data are error-free, up-to-date, complete or based upon accurate or meaningful facts.
+C. The Recipient further understands and agrees that it will forever waive any and all rights, claims, causes of action or other recourse that it might otherwise have against the Data Providers for any injuries or damages of any type, whether direct, indirect, incidental, consequential or otherwise, resulting from any error or omission in the data or in any programming used to obtain the data, or in any manner arising out of or related to this agreement or the data provided hereunder. The Recipient agrees that the Data Providers shall not be liable to the Recipient for any liability, claim, loss, damage, injury or expense of any kind caused or alleged to be caused, directly or indirectly, by the inadequacy of data obtained from the Data Providers, by any deficiency of the Data Providers or the Recipient systems, by any delay or failure to provide any service, or by any other interruption, disruption or loss of the Recipient operations.
+II. INDEMNIFICATION:
+A. The Recipient agrees that it will provide no copy or partial copy of any data to any other party, including consultants under contract with The Recipient, without disclosing that the copy or partial copy was obtained from the Data Providers and without attaching the Disclaimer of Liability and Warranties paragraph.
+B. The Recipient hereby agrees to defend, save, hold harmless and indemnify the Data Providers and signatories to its data sharing agreements and its/their officers, employees and agents against claims by anyone for any loss, injury, damage, risk, cause of action, or liability of any type (including legal fees) incurred by the Recipient or any other person, relating to or arising out of the subject matter of this agreement, or which may be alleged to have been caused, either directly or indirectly, by the acts, conduct, omissions, negligence or lack of good faith of the Data Providers, their officers, agents or employees.</constraints>
+  <rights>Kern County Assessor's Office, Mapping Section.&#xd;
+Kern Council of Governments.&#xd;
+Merced County Association of Governments.&#xd;
+City of Bakersfield, IT Division, GIS Services.&#xd;
+City of Shafter, IT Department, GIS Division.</rights>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys nativeFormat="Wkt">
+      <wkt>PROJCRS["NAD83 / California zone 5 (ftUS)",BASEGEOGCRS["NAD83",DATUM["North American Datum 1983",ELLIPSOID["GRS 1980",6378137,298.257222101,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4269]],CONVERSION["SPCS83 California zone 5 (US Survey feet)",METHOD["Lambert Conic Conformal (2SP)",ID["EPSG",9802]],PARAMETER["Latitude of false origin",33.5,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8821]],PARAMETER["Longitude of false origin",-118,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8822]],PARAMETER["Latitude of 1st standard parallel",35.4666666666667,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8823]],PARAMETER["Latitude of 2nd standard parallel",34.0333333333333,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8824]],PARAMETER["Easting at false origin",6561666.667,LENGTHUNIT["US survey foot",0.304800609601219],ID["EPSG",8826]],PARAMETER["Northing at false origin",1640416.667,LENGTHUNIT["US survey foot",0.304800609601219],ID["EPSG",8827]]],CS[Cartesian,2],AXIS["easting (X)",east,ORDER[1],LENGTHUNIT["US survey foot",0.304800609601219]],AXIS["northing (Y)",north,ORDER[2],LENGTHUNIT["US survey foot",0.304800609601219]],USAGE[SCOPE["Engineering survey, topographic mapping."],AREA["United States (USA) - California - counties Kern; Los Angeles; San Bernardino; San Luis Obispo; Santa Barbara; Ventura."],BBOX[32.76,-121.42,35.81,-114.12]],ID["EPSG",2229]]</wkt>
+      <proj4>+proj=lcc +lat_0=33.5 +lon_0=-118 +lat_1=35.4666666666667 +lat_2=34.0333333333333 +x_0=2000000.0001016 +y_0=500000.0001016 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=us-ft +no_defs</proj4>
+      <srsid>211</srsid>
+      <srid>2229</srid>
+      <authid>EPSG:2229</authid>
+      <description>NAD83 / California zone 5 (ftUS)</description>
+      <projectionacronym>lcc</projectionacronym>
+      <ellipsoidacronym>EPSG:7019</ellipsoidacronym>
+      <geographicflag>false</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent>
+    <spatial maxx="-117.61579999999999302" miny="34.77239999999999753" maxy="35.80890000000000128" minz="0" crs="EPSG:2229" maxz="0" minx="-120.19870000000000232" dimensions="2"/>
+    <temporal>
+      <period>
+        <start>2025-06-28T07:00:00Z</start>
+        <end></end>
+      </period>
+    </temporal>
+  </extent>
+</qgis>

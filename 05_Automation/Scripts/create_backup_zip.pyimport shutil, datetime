@@ -1,0 +1,13 @@
+import shutil, datetime
+from pathlib import Path
+
+SOURCE = Path("/Volumes/BigSkySSD")
+DEST = Path("/Volumes/BigSkySSD/07_Backups")
+DEST.mkdir(exist_ok=True)
+
+today = datetime.datetime.now().strftime("%Y-%m-%d")
+zip_name = f"BigSkyAg_Backup_{today}"
+shutil.make_archive(str(DEST / zip_name), 'zip', root_dir=SOURCE)
+
+print(f"✅ Backup created: {zip_name}.zip")
+

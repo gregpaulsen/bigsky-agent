@@ -1,0 +1,171 @@
+.
+./GIS Projects
+./GIS Projects/.DS_Store
+./GIS Projects/Bakersfield Practice
+./GIS Projects/Bakersfield Practice/tl_2023_06_place
+./GIS Projects/Bakersfield Practice/tl_2023_06_place/tl_2023_06_place.prj
+./GIS Projects/Bakersfield Practice/tl_2023_06_place/tl_2023_06_place.shp.iso.gfs
+./GIS Projects/Bakersfield Practice/tl_2023_06_place/tl_2023_06_place.shp.iso.xml
+./GIS Projects/Bakersfield Practice/tl_2023_06_place/tl_2023_06_place.shx
+./GIS Projects/Bakersfield Practice/tl_2023_06_place/tl_2023_06_place.cpg
+./GIS Projects/Bakersfield Practice/tl_2023_06_place/tl_2023_06_place.shp
+./GIS Projects/Bakersfield Practice/tl_2023_06_place/tl_2023_06_place.shp.ea.iso.xml
+./GIS Projects/Bakersfield Practice/tl_2023_06_place/tl_2023_06_place.shp.ea.iso.gfs
+./GIS Projects/Bakersfield Practice/tl_2023_06_place/tl_2023_06_place.dbf
+./GIS Projects/Bakersfield Practice/Bakersfield_Zoning_Project.qgz
+./GIS Projects/Bakersfield Practice/.DS_Store
+./GIS Projects/Bakersfield Practice/Bakersfield_Boundary
+./GIS Projects/Bakersfield Practice/Bakersfield_Boundary/Bakersfield_boundary.shx
+./GIS Projects/Bakersfield Practice/Bakersfield_Boundary/Bakersfield_boundary.qmd
+./GIS Projects/Bakersfield Practice/Bakersfield_Boundary/Bakersfield_boundary.shp
+./GIS Projects/Bakersfield Practice/Bakersfield_Boundary/Bakersfield_boundary.cpg
+./GIS Projects/Bakersfield Practice/Bakersfield_Boundary/Bakersfield_boundary.dbf
+./GIS Projects/Bakersfield Practice/Bakersfield_Boundary/Bakersfield_boundary.prj
+./GIS Projects/Bakersfield Practice/Kern_County_Zoning_-3947152622417052411
+./GIS Projects/Bakersfield Practice/Kern_County_Zoning_-3947152622417052411/Kern_County_Zoning.shp.xml
+./GIS Projects/Bakersfield Practice/Kern_County_Zoning_-3947152622417052411/Kern_County_Zoning.cpg
+./GIS Projects/Bakersfield Practice/Kern_County_Zoning_-3947152622417052411/Kern_County_Zoning.shp
+./GIS Projects/Bakersfield Practice/Kern_County_Zoning_-3947152622417052411/Kern_County_Zoning.shx
+./GIS Projects/Bakersfield Practice/Kern_County_Zoning_-3947152622417052411/Kern_County_Zoning_-113459061000329802.geojson
+./GIS Projects/Bakersfield Practice/Kern_County_Zoning_-3947152622417052411/Kern_County_Zoning.dbf
+./GIS Projects/Bakersfield Practice/Kern_County_Zoning_-3947152622417052411/Kern_County_Zoning.prj
+./GIS Projects/Bakersfield Practice/Kern_County_Zoning_-3947152622417052411/Kern_County_Zoning_-3947152622417052411.zip
+./Branding
+./Branding/.DS_Store
+./Branding/Logos
+./Branding/Logos/BigSkyAgEmbroidery.png
+./Branding/Logos/BigSkyAgSteel.png
+./Branding/Logos/CanvaAILogo1.jpg
+./Branding/Logos/CanvaAILogo2.jpg
+./Branding/Logos/BigSkyAgLogo1.png
+./.DS_Store
+./Notion Files
+./Notion Files/.DS_Store
+./Notion Files/BigSkyAg_Grant_Readiness_Checklist.md
+./Notion Files/BigSkyAg_Notion_Workspace_Blueprint_Master.md
+./Notion Files/VSCode
+./QGIS_Projects
+./QGIS_Projects/Scounting_Notes.dbf
+./QGIS_Projects/Scounting_Notes.shx
+./QGIS_Projects/Scounting_Notes.cpg
+./QGIS_Projects/Scounting_Notes.shp
+./QGIS_Projects/Target Farms.qgz
+./QGIS_Projects/Scounting_Notes.prj
+./TargetFarms_40tto150ac
+./TargetFarms_40tto150ac/TargetFarms_40to150ac.gpkg.dbf
+./TargetFarms_40tto150ac/TargetFarms_40to150ac.gpkg.qmd
+./TargetFarms_40tto150ac/TargetFarms_40to150ac.gpkg.shx
+./TargetFarms_40tto150ac/TargetFarms_40to150ac.gpkg.cpg
+./TargetFarms_40tto150ac/TargetFarms_40to150ac.gpkg.shp
+./TargetFarms_40tto150ac/TargetFarms_40to150ac.gpkg.prj
+./Parcel Boundaries
+./Parcel Boundaries/.DS_Store
+./Parcel Boundaries/Assessor_Parcels_Land_2025
+./Parcel Boundaries/Assessor_Parcels_Land_2025/Assessor_Parcels_Land_2025.prj
+./Parcel Boundaries/Assessor_Parcels_Land_2025/Assessor_Parcels_Land_2025.shp.xml
+./Parcel Boundaries/Assessor_Parcels_Land_2025/Assessor_Parcels_Land_2025.cpg
+./Parcel Boundaries/Assessor_Parcels_Land_2025/Assessor_Parcels_Land_2025.shp
+./Parcel Boundaries/Assessor_Parcels_Land_2025/Assessor_Parcels_Land_2025.shx
+./Parcel Boundaries/Assessor_Parcels_Land_2025/Assessor_Parcels_Land_2025.dbf
+./BigSky_HQ
+./BigSky_HQ/.DS_Store
+./BigSky_HQ/Business Docs
+./BigSky_HQ/Business Docs/BigSkyAgEINDoc.pdf
+./BigSky_HQ/Business Docs/.DS_Store
+./BigSky_HQ/Business Docs/Bank Account Setup
+./BigSky_HQ/Business Docs/Bank Account Setup/BigSkyAgEINDoc.pdf
+./BigSky_HQ/Business Docs/Bank Account Setup/Big Sky Ag - Articles of Organization.pdf
+./BigSky_HQ/Business Docs/BigSkyAg_Monday_CRM_Kit
+./BigSky_HQ/Business Docs/BigSkyAg_Monday_CRM_Kit/Farmer_Outreach_Tracker.csv
+./BigSky_HQ/Business Docs/BigSkyAg_Monday_CRM_Kit/Ag_Scanning_Grants_Monday_Tracker.csv
+./BigSky_HQ/Business Docs/BigSkyAg_Monday_CRM_Kit/Ag_Scanning_Companies_List.csv
+./BigSky_HQ/Business Docs/BigSkyAg_Monday_CRM_Kit/Field_Ops_Client_Tracker.csv
+./BigSky_HQ/Business Docs/BigSkyAg_Monday_CRM_Kit/Grant_Applications_For_Monday.csv
+./BigSky_HQ/Business Docs/BigSkyAg_Monday_CRM_Kit/Equipment_Only_Log.csv
+./BigSky_HQ/Business Docs/BigSkyAg_Monday_CRM_Kit/Grant_Application_Tracker.csv
+./BigSky_HQ/Business Docs/BigSkyAg_Monday_CRM_Kit/Vendor_Tool_Log.csv
+./BigSky_HQ/Business Docs/BigSkyAg_Monday_CRM_Kit/Crop_Reference_Library_Monday (1).csv
+./BigSky_HQ/Business Docs/BigSkyAg_Monday_CRM_Kit/Subscriptions_Service_Log.csv
+./BigSky_HQ/Business Docs/BigSkyAg_Monday_CRM_Kit/Vendor_Tool_Log_Updated.csv
+./BigSky_HQ/Business Docs/BigSkyAg-ArticlesofOrganization.pdf
+./BigSky_HQ/Training
+./BigSky_HQ/Training/.DS_Store
+./BigSky_HQ/Training/Part107Training
+./BigSky_HQ/Training/Part107Training/.DS_Store
+./BigSky_HQ/Training/Part107Training/2 - Airspace
+./BigSky_HQ/Training/Part107Training/2 - Airspace/2.2 - Longitude & Latitude Review.pdf
+./BigSky_HQ/Training/Part107Training/2 - Airspace/2.3 - Airspace Operational Requirements.pdf
+./BigSky_HQ/Training/Part107Training/2 - Airspace/2.1 - Airspace Classification.pdf
+./BigSky_HQ/Training/Part107Training/4 - Loading & Performance
+./BigSky_HQ/Training/Part107Training/4 - Loading & Performance/4.1 - Loading and Performance.pdf
+./BigSky_HQ/Training/Part107Training/1.3 - Remote Pilot Certification with an sUAS Rating.pdf
+./BigSky_HQ/Training/Part107Training/3 - Weather
+./BigSky_HQ/Training/Part107Training/3 - Weather/3.2 - Effects of Weather on Performance.pdf
+./BigSky_HQ/Training/Part107Training/3 - Weather/3.1 - Sources of Weather.pdf
+./BigSky_HQ/Training/Part107Training/1.4 - Operating Around People, From Moving Vehicles & At Night.pdf
+./BigSky_HQ/Training/Part107Training/1.5 - Waivers.pdf
+./BigSky_HQ/Training/Part107Training/5 - Operations
+./BigSky_HQ/Training/Part107Training/5 - Operations/5.4 - Aeronautical Decision-Making.pdf
+./BigSky_HQ/Training/Part107Training/5 - Operations/5.3 - Emergency Procedures.pdf
+./BigSky_HQ/Training/Part107Training/5 - Operations/5.5 - Physiology.pdf
+./BigSky_HQ/Training/Part107Training/5 - Operations/5.1 - Radio Communications Procedures.pdf
+./BigSky_HQ/Training/Part107Training/5 - Operations/5.6 - Maintenance and Inspection Procedures.pdf
+./BigSky_HQ/Training/Part107Training/5 - Operations/5.2 - Airport Operations.pdf
+./BigSky_HQ/Training/Part107Training/1.2 - Operating Rules.pdf
+./BigSky_HQ/Training/Part107Training/1.1 - General Regulations.pdf
+./BigSky_HQ/Training/Pilotbyte_Drone_Services_Pricing_Guide_MASTER.pdf
+./BigSky_HQ/BigSky_GIS_Data
+./BigSky_HQ/BigSky_GIS_Data/.DS_Store
+./BigSky_HQ/BigSky_GIS_Data/BigSky_HQ_Basemap
+./BigSky_HQ/BigSky_GIS_Data/BigSky_HQ_Basemap/BigSky_HQ.shx
+./BigSky_HQ/BigSky_GIS_Data/BigSky_HQ_Basemap/.DS_Store
+./BigSky_HQ/BigSky_GIS_Data/BigSky_HQ_Basemap/BigSky_HQ.shp
+./BigSky_HQ/BigSky_GIS_Data/BigSky_HQ_Basemap/BigSky_HQ.cpg
+./BigSky_HQ/BigSky_GIS_Data/BigSky_HQ_Basemap/BigSky_HQ.dbf
+./BigSky_HQ/BigSky_GIS_Data/BigSky_HQ_Basemap/BigSky_HQ.prj
+./BigSky_HQ/BigSky_GIS_Data/CDL_2024
+./BigSky_HQ/BigSky_GIS_Data/CDL_2024/.DS_Store
+./BigSky_HQ/BigSky_GIS_Data/CDL_2024/CDL_2024_Tulare_06107
+./BigSky_HQ/BigSky_GIS_Data/CDL_2024/CDL_2024_Tulare_06107/.DS_Store
+./BigSky_HQ/BigSky_GIS_Data/CDL_2024/CDL_2024_Tulare_06107/CDL_2024_06107.tif.vat.dbf
+./BigSky_HQ/BigSky_GIS_Data/CDL_2024/CDL_2024_Tulare_06107/CDL_2024_06107.tif
+./BigSky_HQ/BigSky_GIS_Data/CDL_2024/CDL_2024_Kern_06029
+./BigSky_HQ/BigSky_GIS_Data/CDL_2024/CDL_2024_Kern_06029/.DS_Store
+./BigSky_HQ/BigSky_GIS_Data/CDL_2024/CDL_2024_Kern_06029/tl_2024_us_county
+./BigSky_HQ/BigSky_GIS_Data/CDL_2024/CDL_2024_Kern_06029/tl_2024_us_county/tl_2024_us_county.shp.iso.xml
+./BigSky_HQ/BigSky_GIS_Data/CDL_2024/CDL_2024_Kern_06029/tl_2024_us_county/tl_2024_us_county.dbf
+./BigSky_HQ/BigSky_GIS_Data/CDL_2024/CDL_2024_Kern_06029/tl_2024_us_county/tl_2024_us_county.shx
+./BigSky_HQ/BigSky_GIS_Data/CDL_2024/CDL_2024_Kern_06029/tl_2024_us_county/tl_2024_us_county.shp
+./BigSky_HQ/BigSky_GIS_Data/CDL_2024/CDL_2024_Kern_06029/tl_2024_us_county/tl_2024_us_county.cpg
+./BigSky_HQ/BigSky_GIS_Data/CDL_2024/CDL_2024_Kern_06029/tl_2024_us_county/tl_2024_us_county.prj
+./BigSky_HQ/BigSky_GIS_Data/CDL_2024/CDL_2024_Kern_06029/tl_2024_us_county/tl_2024_us_county.shp.ea.iso.xml
+./BigSky_HQ/BigSky_GIS_Data/CDL_2024/CDL_2024_Kern_06029/CDL_2024_06029.tif
+./BigSky_HQ/BigSky_GIS_Data/CDL_2024/CDL_2024_Kern_06029/CDL_2024_06029.tif.vat.dbf
+./BigSky_HQ/Budget Info
+./BigSky_HQ/Budget Info/Big_Sky_Ag_Survey_Startup_Budget.md
+./BigSky_HQ/Budget Info/Big_Sky_Ag_Survey_Startup_Budget.docx
+./Target_Farms_GPKG
+./Target_Farms_GPKG/.DS_Store
+./bigsky_structure.txt
+./Raster Files
+./Raster Files/Almonds_2024-kern.tif
+./Automation Files
+./Automation Files/.DS_Store
+./Automation Files/Notion Files
+./Automation Files/Notion Files/.DS_Store
+./Automation Files/Notion Files/BigSkyAg_Grant_Readiness_Checklist.md
+./Automation Files/Notion Files/BigSkyAg_Notion_Workspace_Blueprint_Master.md
+./Automation Files/GPT files
+./Automation Files/GPT files/Kyle_Master_Save_Sheet_2025-07-30.txt
+./Automation Files/GPT files/.DS_Store
+./Automation Files/GPT files/Kyle_Master_Offline_Backup
+./Automation Files/GPT files/Kyle_Master_Offline_Backup/NOBI - Agent Pitch.md
+./Automation Files/GPT files/Kyle_Master_Offline_Backup/Big Sky Ag - Financial Model.md
+./Automation Files/GPT files/Kyle_Master_Offline_Backup/Big Sky Ag - Drone Loadout.md
+./Automation Files/GPT files/Kyle_Master_Offline_Backup/Big Sky Ag - NDVI Workflow.md
+./Automation Files/GPT files/Kyle_Master_Offline_Backup/Dad Skills - PPF Install.md
+./Automation Files/GPT files/Kyle_Master_Offline_Backup/Legal - Keller IEP Timeline.md
+./Automation Files/Make.com
+./Automation Files/Make.com/Makecom_Automation_Setup_Guide.md
+./Automation Files/VSCode
+./Big Sky Ag.zip

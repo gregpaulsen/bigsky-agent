@@ -1,0 +1,156 @@
+.
+├── 00_Admin
+│   ├── Ag_Scanning_Companies_List.csv
+│   ├── Big Sky Ag - Articles of Organization.pdf
+│   ├── BigSkyAg-ArticlesofOrganization.pdf
+│   ├── BigSkyAgEINDoc.pdf
+│   ├── Budget
+│   │   ├── Big_Sky_Ag_Survey_Startup_Budget.docx
+│   │   ├── Big_Sky_Ag_Survey_Startup_Budget.md
+│   │   └── BigSkyAg_Grant_Readiness_Checklist.md
+│   ├── CRM_Data_Exports
+│   ├── Crop_Reference_Library_Monday (1).csv
+│   ├── EIN_Articles_Bank
+│   ├── Equipment_Only_Log.csv
+│   ├── Farmer_Outreach_Tracker.csv
+│   ├── Field_Ops_Client_Tracker.csv
+│   ├── Grants
+│   │   ├── Grant Name,Source,Amount,Status,Due Date.csv
+│   │   ├── Grant_Application_Tracker.csv
+│   │   └── Grant_Applications_For_Monday.csv
+│   ├── Subscriptions_Service_Log.csv
+│   ├── Vendor_Tool_Log_Updated.csv
+│   └── Vendor_Tool_Log.csv
+├── 01_Branding
+│   └── Logos
+│       ├── BigSkyAgEmbroidery.png
+│       ├── BigSkyAgLogo1.png
+│       ├── BigSkyAgSteel.png
+│       ├── CanvaAILogo1.jpg
+│       └── CanvaAILogo2.jpg
+├── 02_GIS_Projects
+│   └── Source_Data
+│       ├── Almonds_2024-kern.tif
+│       ├── Assessor_Parcels_Land_2025.cpg
+│       ├── Assessor_Parcels_Land_2025.dbf
+│       ├── Assessor_Parcels_Land_2025.prj
+│       ├── Assessor_Parcels_Land_2025.shp
+│       ├── Assessor_Parcels_Land_2025.shp.xml
+│       ├── Assessor_Parcels_Land_2025.shx
+│       ├── Bakersfield_boundary.cpg
+│       ├── Bakersfield_boundary.dbf
+│       ├── Bakersfield_boundary.prj
+│       ├── Bakersfield_boundary.qmd
+│       ├── Bakersfield_boundary.shp
+│       ├── Bakersfield_boundary.shx
+│       ├── Bakersfield_Zoning_Project.qgz
+│       ├── BigSky_HQ.cpg
+│       ├── BigSky_HQ.dbf
+│       ├── BigSky_HQ.prj
+│       ├── BigSky_HQ.shp
+│       ├── BigSky_HQ.shx
+│       ├── CDL_2024_06029.tif
+│       ├── CDL_2024_06029.tif.vat.dbf
+│       ├── CDL_2024_06107.tif
+│       ├── CDL_2024_06107.tif.vat.dbf
+│       ├── Kern_County_Zoning_-113459061000329802.geojson
+│       ├── Kern_County_Zoning.cpg
+│       ├── Kern_County_Zoning.dbf
+│       ├── Kern_County_Zoning.prj
+│       ├── Kern_County_Zoning.shp
+│       ├── Kern_County_Zoning.shp.xml
+│       ├── Kern_County_Zoning.shx
+│       ├── TargetFarms_40to150ac.gpkg.cpg
+│       ├── TargetFarms_40to150ac.gpkg.dbf
+│       ├── TargetFarms_40to150ac.gpkg.prj
+│       ├── TargetFarms_40to150ac.gpkg.qmd
+│       ├── TargetFarms_40to150ac.gpkg.shp
+│       ├── TargetFarms_40to150ac.gpkg.shx
+│       ├── tl_2023_06_place.cpg
+│       ├── tl_2023_06_place.dbf
+│       ├── tl_2023_06_place.prj
+│       ├── tl_2023_06_place.shp
+│       ├── tl_2023_06_place.shp.ea.iso.gfs
+│       ├── tl_2023_06_place.shp.ea.iso.xml
+│       ├── tl_2023_06_place.shp.iso.gfs
+│       ├── tl_2023_06_place.shp.iso.xml
+│       ├── tl_2023_06_place.shx
+│       ├── tl_2024_us_county.cpg
+│       ├── tl_2024_us_county.dbf
+│       ├── tl_2024_us_county.prj
+│       ├── tl_2024_us_county.shp
+│       ├── tl_2024_us_county.shp.ea.iso.xml
+│       ├── tl_2024_us_county.shp.iso.xml
+│       └── tl_2024_us_county.shx
+├── 03_QGIS_Project_Files
+│   ├── Scounting_Notes.cpg
+│   ├── Scounting_Notes.dbf
+│   ├── Scounting_Notes.prj
+│   ├── Scounting_Notes.shp
+│   ├── Scounting_Notes.shx
+│   └── Target Farms.qgz
+├── 04_Training
+│   ├── Part107Training
+│   │   ├── 1.1 - General Regulations.pdf
+│   │   ├── 1.2 - Operating Rules.pdf
+│   │   ├── 1.3 - Remote Pilot Certification with an sUAS Rating.pdf
+│   │   ├── 1.4 - Operating Around People, From Moving Vehicles & At Night.pdf
+│   │   ├── 1.5 - Waivers.pdf
+│   │   ├── 2 - Airspace
+│   │   │   ├── 2.1 - Airspace Classification.pdf
+│   │   │   ├── 2.2 - Longitude & Latitude Review.pdf
+│   │   │   └── 2.3 - Airspace Operational Requirements.pdf
+│   │   ├── 3 - Weather
+│   │   │   ├── 3.1 - Sources of Weather.pdf
+│   │   │   └── 3.2 - Effects of Weather on Performance.pdf
+│   │   ├── 4 - Loading & Performance
+│   │   │   └── 4.1 - Loading and Performance.pdf
+│   │   ├── 5 - Operations
+│   │   │   ├── 5.1 - Radio Communications Procedures.pdf
+│   │   │   ├── 5.2 - Airport Operations.pdf
+│   │   │   ├── 5.3 - Emergency Procedures.pdf
+│   │   │   ├── 5.4 - Aeronautical Decision-Making.pdf
+│   │   │   ├── 5.5 - Physiology.pdf
+│   │   │   └── 5.6 - Maintenance and Inspection Procedures.pdf
+│   │   └── Pilotbyte_Drone_Services_Pricing_Guide_MASTER.pdf
+│   └── Training
+├── 05_Automation_Systems
+│   ├── Automation Files
+│   ├── Big Sky Ag - Drone Loadout.md
+│   ├── Big Sky Ag - Financial Model.md
+│   ├── Big Sky Ag - NDVI Workflow.md
+│   ├── BigSkyAg_Grant_Readiness_Checklist.md
+│   ├── BigSkyAg_Notion_Workspace_Blueprint_Master.md
+│   ├── Dad Skills - PPF Install.md
+│   ├── GPT_Save_Sheets
+│   ├── Kyle_Master_Save_Sheet_2025-07-30.txt
+│   ├── Make.com
+│   ├── NOBI - Agent Pitch.md
+│   └── VSCode
+├── 06_Internal_Strategy
+│   ├── bigsky_final_structure.txt
+│   └── KyleOps_Master_Files
+├── BigSkyAg_Final_Folder_Structure.txt
+├── StructureFiles
+│   ├── bigsky_structure.txt
+│   ├── current_structure.txt
+│   └── updated_structure.txt
+└── Z_Archive
+    ├── Big Sky Ag Folder Structure.pdf
+    ├── Big Sky Ag.zip
+    ├── Duplicate_Files
+    └── Old_Versions
+        └── BigSkyAg_Monday_CRM_Kit
+            ├── Ag_Scanning_Companies_List.csv
+            ├── Ag_Scanning_Grants_Monday_Tracker.csv
+            ├── Crop_Reference_Library_Monday (1).csv
+            ├── Equipment_Only_Log.csv
+            ├── Farmer_Outreach_Tracker.csv
+            ├── Field_Ops_Client_Tracker.csv
+            ├── Grant_Application_Tracker.csv
+            ├── Grant_Applications_For_Monday.csv
+            ├── Subscriptions_Service_Log.csv
+            ├── Vendor_Tool_Log_Updated.csv
+            └── Vendor_Tool_Log.csv
+
+30 directories, 124 files

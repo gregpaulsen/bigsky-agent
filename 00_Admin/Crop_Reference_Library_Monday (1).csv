@@ -1,0 +1,10 @@
+Crop Type,Recommended Index,Camera Settings,Growth Stage Tips,Measurement Notes,Notes / Issues to Watch
+Almonds,NDVI,"Altitude: 120ft, 80% overlap",NDVI best in early-mid season to detect vigor,"Row spacing: ~22ft, Canopy: 8–14ft","Monitor for uniform vigor, pest impact areas"
+Grapes,NDRE,"Altitude: 150ft, 75% overlap",NDRE ideal during veraison to harvest,"Row spacing: 6–8ft, Canopy: 4–6ft",Detect water stress or vine disease
+Citrus,GNDVI,"Altitude: 100ft, 85% overlap",Use GNDVI for mid-season nutrient monitoring,"Row spacing: 16ft, Canopy: 10–15ft",Check for chlorosis or canopy thinning
+Pistachios,NDRE,"Altitude: 120ft, 80% overlap",NDRE reveals stress during nut fill phase,"Row spacing: 18–22ft, Canopy: 10–16ft",Salt stress and poor nut fill zones
+Tomatoes,NDVI,"Altitude: 100ft, 80% overlap",NDVI detects poor stand or blossom issues,"Spacing: 4ft rows, Low canopy",Identify early blight or irrigation problems
+Lettuce,NDVI,"Altitude: 100ft, 85% overlap",Good for early detection of uniformity problems,"Tight rows, shallow canopy","Watch for bolting, uneven emergence"
+Cotton,NDRE,"Altitude: 120ft, 75% overlap",NDRE helps evaluate late-stage canopy issues,Row spacing: 38–40in,Late-stage canopy gaps or discoloration
+Corn,NDVI,"Altitude: 115ft, 80% overlap",NDVI useful from emergence to tasseling,Row spacing: 30–36in,"Track uniform emergence, fertilization effects"
+Wheat,GNDVI,"Altitude: 100ft, 80% overlap",GNDVI highlights chlorophyll drop pre-harvest,Row spacing: 7.5–12in,Monitor nitrogen use and tillering variation
