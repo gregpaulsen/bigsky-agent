@@ -1,0 +1,13 @@
+# Large operational files to exclude from repo 
+00_Admin/Backups/
+02_Field_Projects/Source_Data/*.zip
+02_Field_Projects/Source_Data/*.tif
+02_Field_Projects/Source_Data/*.shp
+02_Field_Projects/Source_Data/*.geojson
+
+# Catch-all
+*.zip
+*.tif
+*.shp
+*.geojson
+
